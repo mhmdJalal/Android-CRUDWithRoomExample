@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS Ismail</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_back">Kembali</string>
+    <string name="empty_not_saved">Contact not saved</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_address">Alamat</string>
+    <string name="hint_phone">No Telepon</string>
+    <string name="text_see_contact">Lihat Kontak</string>
+    <string name="text_new_contact">Buat Kontak Baru</string>
+    <string name="button_delete">Hapus</string>
+</resources>
